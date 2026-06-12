@@ -70,7 +70,3 @@ weapon = Sword | Staff | Dagger
 output = The [subject] attacks with a [weapon]!
 
 ```
-
-```
-
-```
